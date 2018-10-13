@@ -4,7 +4,7 @@ some samples of python-style coding here
 
 ###### *now without comments*
 
-'''python
+```python
 #creating list
 four_nones = [None] * 4
 
@@ -79,7 +79,7 @@ if 'hello' in d:
 with open('file.txt') as f:
     for line in f:
         print line
-'''
+```
 
 
 
